@@ -1,2 +1,2 @@
-# HKP-Android-Specialization
+# HKP-Android-Training
 HKP Android Frontend training 
